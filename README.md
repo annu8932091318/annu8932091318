@@ -1,68 +1,155 @@
-👋 Hi, I’m Anup Yadav!
+<h1 align="center">Hi 👋, I'm Anup Yadav</h1>
 
-👀 I’m interested in backend development, API testing, and optimizing code for efficient performance.
+<h3 align="center">
+Software Engineer | AI Engineer | Full Stack Developer
+</h3>
 
-🌱 I’m currently learning about microservices architecture and enhancing my skills in Node.js, React.js, and Python.
-
-💞️ I’m looking to collaborate on projects that involve innovative software solutions and impactful backend development.
-
-📫 How to reach me:
-- Phone: +918932091318
-- Email: annuy8055@gmail.com
-- LinkedIn: [Anup Yadav on LinkedIn](https://www.linkedin.com/in/anup-yadav-377807148)
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I enjoy exploring new technologies and experimenting with different programming languages!
+<p align="center">
+Building scalable backend systems, AI-powered applications, and cloud-native solutions.
+</p>
 
 ---
 
-### Summary:
-- Enthusiastic and reliable Software Developer with 2+ years of industry experience.
-- Proficient in Node.js, React.js, Python, Java, and Rest API with a strong understanding of Microservices architecture.
-- Skilled in backend development, API testing/debugging, and optimizing code for performance.
-- Experienced in databases like SQL and NoSQL (MongoDB), and proficient in Git/GitHub for version control.
+## 🚀 About Me
 
-### Experience:
-#### Scholar Trainee Engineer at Wipro (Aug 2022 - Present)
-- Led comprehensive backend/API testing initiatives, ensuring high stability and a 95% success rate.
-- Implemented a cron job for error monitoring, resulting in a 75% increase in production stability.
-- Proficient in microservices architecture and deployment with Jenkins.
+- 💻 Software Engineer passionate about Backend Development & AI
+- 🤖 Building AI applications using LLMs, LangChain, LangGraph & RAG
+- 🌐 Full Stack Developer with React, Node.js & Spring Boot
+- ☁️ Interested in Distributed Systems, Cloud & System Design
+- 📈 Always learning scalable architectures and production-grade AI systems
 
-#### Trainee Managed Services at Telenity (Mar 2022 - Jul 2022)
-- Contributed to backend development using Node.js, achieving a 60% performance improvement through code optimization.
-- Ensured 100% code quality through active participation in code reviews.
+---
 
-### Education:
-- Master of Computer Applications, Chandigarh University (Expected Graduation: 2025)
-- Bachelor of Computer Applications, Maharana Pratap Group of Institutions (2019 - 2022)
+## 🛠 Tech Stack
 
-### Skills:
-- **Programming Languages:** Python, Java, C++, JavaScript
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Backend Technologies:** Node.js, Express.js
-- **Databases:** SQL, NoSQL (MongoDB)
-- **Version Control:** Git, GitHub
-- **Testing:** Unit testing, Integration testing, Test-driven development
+### Languages
+- Java
+- JavaScript
+- TypeScript
+- Python
+- SQL
 
-### Projects:
-1. **Loan Management System Development**
-   - Integrated API services for seamless loan processing.
-   - Enhanced efficiency by 30% with robust loan creation and tracking functionalities.
+### Backend
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
 
-2. **KYC Management System Enhancement**
-   - Ensured compliance with regulatory requirements.
-   - Implemented automated KYC checks, improving accuracy and reducing manual effort.
+### Frontend
+- React.js
+- HTML
+- CSS
+- Tailwind CSS
 
-3. **Financial Management Services for NBFC Lenders**
-   - Developed custom financial reporting tools for real-time insights into loan portfolios.
-   - Optimized loan management workflows, reducing operational costs.
+### AI / LLM
+- OpenAI API
+- LangChain
+- LangGraph
+- RAG
+- Vector Databases
+- Prompt Engineering
 
-4. **AMS System Development for Enhanced Logging of External API Requests**
-   - Created an Advanced Monitoring System (AMS) for enhanced API logging.
-   - Improved system reliability by 70% through proactive monitoring.
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
 
-### Licences & Certifications:
-- Front End Developer, TCA Noida
-- React.js Certification, [View Certificate](https://olympus1.mygreatlearning.com/course_certificate/ADXZQHEL)
+### Cloud & DevOps
+- AWS S3
+- Docker
+- Git
+- GitHub
 
+### Messaging & Architecture
+- Kafka
+- Microservices
+- Event Driven Architecture
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Shop Photo Generator
+Generate professional product photos using AI.
+
+**Tech**
+- OpenAI
+- LangChain
+- React
+- Node.js
+- AWS S3
+
+---
+
+### 📄 AI Resume Analyzer
+
+Upload resumes and receive ATS score, suggestions and improvements using LLMs.
+
+**Tech**
+- Python
+- LangChain
+- OpenAI
+- Vector Database
+
+---
+
+### 💳 Loan Management Backend
+
+Backend APIs for payment processing, transaction reconciliation, schedulers and notification services.
+
+**Highlights**
+- REST APIs
+- Spring Boot
+- Kafka
+- Redis
+- PostgreSQL
+
+---
+
+### 📚 RAG Chatbot
+
+Context-aware chatbot using document retrieval.
+
+**Tech**
+- LangGraph
+- LangChain
+- OpenAI
+- MongoDB
+- Vector Database
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- Multi-Agent Systems
+- Kubernetes
+- AWS
+- Distributed Systems
+- Advanced System Design
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
+
+---
+
+## 📊 GitHub Stats
+
+(Add GitHub Readme Stats here)
+
+---
+
+## 🔥 What I'm Looking For
+
+- Software Engineer Roles
+- AI Engineer Roles
+- Backend Engineer Roles
+- Full Stack Engineer Roles
+
+Open to exciting opportunities where I can build scalable products powered by AI.
